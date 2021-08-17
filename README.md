@@ -4,5 +4,7 @@ Predict the percentage of an student based on the no. of study hours. This is a 
 Tools used :
 
 Programming Language: Python
+
 IDE: Google Colaboratory
+
 Libraries: Pandas, Matplotlib, Numpy, Sklearn
